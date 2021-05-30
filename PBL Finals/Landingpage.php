@@ -73,7 +73,7 @@
 			<div class="wrapper astonish animated fadeInDown">
 	
 				<h2> Find the collectibles you want<br>
-				DI KO ALAM LALAGAY</h2>
+				Collectibles from out of this world</h2>
 				<a href = "<?php echo 'Homepage.php'; ?>" class="btn btn-outline-purple">Homepage</a>
 
 			</div>
@@ -93,10 +93,10 @@
 			<div class="grid-col-sm-12 grid-col-md-6 astonish" data-animation="fadeInLeft">
 				
 				<h2 class="section-title">About Tori Anime Collectibles</h2>
-				<p> Hinatdog ni hatdog ang hotdog ni hatdog na na hatdog dahil hinantdog ni hatdog. Alamin ang mga kaalamanan na dapat malaman ng mga may gusto mag ka alam para matuto at malaman ang mga bagay bagay na dapat inaalam para mag ka aalam.</p>
-				<p> Ayon sa magandang dilag puso ko ay iyong nabihag wala na nga at labis keme keme di ko na alam lyric basta magandang dilag</p>
-				<p> Ako ay isang tao nanunumpang aasta bilang tao.... minsan. Pero dahil ako ay tao gusto ko ng cash pambili ng lobo lumipad sa langit di ko na nakita pumutok na pala yan kase bili bili ka edi may pagkain sana.</p>
-			
+				<p> Tori Anime Collectibles Started -January 2021 is an online anime toy collection store. These collectibles offers an outstanding and
+				 pleasurable experience of satisfaction. Collections are made legitimately from Japan and are ready to</p>
+				<p> make your happiness into a greater level.In recent years, bootleg products making use of the Nendoroid name or imitating other products distributed by </p>
+				<p>Tori Anime Collectibles have been increasing. These items are usually sold on online shops and internet auction websites, as well as through private sales. Please note that Tori Anime Collectibles cannot provide support for bootleg products. Please always take care when you are purchasing products, as sellers will often attempt to make the product seem like an authentic product.</p>
 			</div>
 			</div>
 		
@@ -105,7 +105,7 @@
 		<div id="reserve" class="content-wrapper-lg text-center astonish" data-animation="zoomIn">
 			
 			<h2 class="section-title">Explore More</h2>
-			<p>Gusto mo ba makita ang tinatagong collectibles ni Ezi. Tara icheck mo ito dito sa page na to click mo yun oh para derectho ka sa page nya olryt hohoohohohohoohohohohoh.</p>
+			<p>Click here for more wonderful information.</p>
 		
 			<a href = "<?php echo 'Homepage.php'; ?>" class="btn btn-outline-purple">Homepage</a>
 		
@@ -113,7 +113,7 @@
 
                <div class="content-wrapper" id="contact">
                     <!-- Third replaceble image -->
-
+					<img class="img-absolute" src="images/background/bg5.png" alt="City 2">
                     <!-- Custom form, important note: you will need additional code in order to make this form work -->
                     <form class="contact-form astonish" action="#" method="post" data-animation="fadeInRight">
                          <h2 class="section-title">Contact Us</h2>
