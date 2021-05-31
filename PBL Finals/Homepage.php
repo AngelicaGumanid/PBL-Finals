@@ -142,30 +142,26 @@
 				<div class="card">
   <div class="products">
     <div class="product active" product-id="1" product-color="#FFFFFF">
-      <div class="thumbnail"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/Stag.svg"/></div>
-      <h1 class="title">The Magnificent Stag</h1>
-      <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+      <div class="thumbnail"><img style="width: 300px; height:300px; margin-left:20px;"src="images/product/33.png"/></div>
+      <h1 class="title"></h1>
+      <p class="description"></p>
     </div>
     <div class="product" product-id="2" product-color="#FFFFFF">
-      <div class="thumbnail"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/Bear.svg"/></div>
-      <h1 class="title">The Courageous Bear</h1>
-      <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-    </div>
+      <div class="thumbnail"><img style="width: 300px; height:300px; margin-left:20px;" src="images/product/34.png"/></div>
+      <h1 class="title"></h1>
+      <p class="description"></p></div>
     <div class="product" product-id="3" product-color="#FFFFFF">
-      <div class="thumbnail"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/Mouse.svg"/></div>
-      <h1 class="title">The Sneaky Mouse</h1>
-      <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-    </div>
+      <div class="thumbnail"><img style="width: 300px; height:300px; margin-left:20px;" src="images/product/10.png"/></div>
+      <h1 class="title"></h1>
+      <p class="description"></p></div>
     <div class="product" product-id="4" product-color="#FFFFFF">
-      <div class="thumbnail"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/Fox.svg"/></div>
-      <h1 class="title">The Cunning Fox</h1>
-      <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-    </div>
+      <div class="thumbnail"><img style="width: 300px; height:300px; margin-left:20px;" src="images/product/36.png"/></div>
+      <h1 class="title"></h1>
+      <p class="description"></p></div>
     <div class="product" product-id="5" product-color="#FFFFFF">
-      <div class="thumbnail"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/Rabbit.svg"/></div>
-      <h1 class="title">The Jumpy Rabbit</h1>
-      <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-    </div>
+      <div class="thumbnail"><img style="width: 300px; height:300px; margin-left:20px;" src="images/product/37.png"/></div>
+      <h1 class="title"></h1>
+      <p class="description"></p> </div>
   </div>
   <div class="footer"><a class="btn" id="prev" href="#" ripple="" ripple-color="#FFFFFF">Prev</a><a class="btn" id="next" href="#" ripple="" ripple-color="#FFFFFF">Next</a></div>
 </div>
@@ -183,18 +179,18 @@
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title"><img src="images/box.png" alt=""></h5>
+        <p class="card-text"></p>
+        <a href="#" class="btn btn-primary">Pre-order</a>
       </div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title"><img src="images/buy.png" alt=""></h5>
+        <p class="card-text"></p>
+        <a href="#" class="btn btn-primary">Shop</a>
       </div>
     </div>
   </div>
@@ -207,18 +203,18 @@
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title"><img src="images/sales.png" alt=""></h5>
+        <p class="card-text"></p>
+        <a href="#" class="btn btn-primary">Tori Merch</a>
       </div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title"><img src="images/sale_2.png" alt=""></h5>
+        <p class="card-text"></p>
+        <a href="#" class="btn btn-primary">Promotions</a>
       </div>
     </div>
   </div>
@@ -238,7 +234,7 @@
 	<div class = "container">
 	<div class = "center">
 	
-	<h2> FRESH ARRIVALS </h2>
+	<h1><b> FRESH ARRIVALS </b></h1>
 	
 	<section class="pt-5 pb-5">
   <div class="container">
@@ -262,69 +258,39 @@
                         <div class="row">
 
                             <div class="col-md-4 mb-3">
+                            
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                                <a href="#" class="btn btn-primary stretched-link">
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/21.png">
+                                </a>
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Waver Velvet Fate/Zero DXF Vol 1 Banpresto CraneKing</p>
                                     </div>
-
+                                    
                                 </div>
+                            
                             </div>
                             <div class="col-md-4 mb-3">
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1517760444937-f6397edcbbcd?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=42b2d9ae6feb9c4ff98b9133addfb698">
+                                <a href="#" class="btn btn-primary stretched-link">
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/22.png">
+                                </a>
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 mb-3">
-                                <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532712938310-34cb3982ef74?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=3d2e8a2039c06dd26db977fe6ac6186a">
-                                    <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="row">
-
-                            <div class="col-md-4 mb-3">
-                                <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532771098148-525cefe10c23?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=3f317c1f7a16116dec454fbc267dd8e4">
-                                    <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-md-4 mb-3">
-                                <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532715088550-62f09305f765?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=ebadb044b374504ef8e81bdec4d0e840">
-                                    <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Kayneth El-Melloi Archibald Fate/Zero DXF Vol 1 Banpresto CraneKing</p>
 
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 mb-3">
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=0754ab085804ae8a3b562548e6b4aa2e">
+                                <a href="#" class="btn btn-primary stretched-link">
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/23.png">
+                                </a>    
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">One piece glitter & glamours color walk style Nami Banpresto</p>
 
                                     </div>
                                 </div>
@@ -337,10 +303,12 @@
 
                             <div class="col-md-4 mb-3">
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=ee8417f0ea2a50d53a12665820b54e23">
+                                <a href="#" class="btn btn-primary stretched-link">
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/24.png">
+                                </a>     
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">One piece glitter & glamours x materia carifa Banpresto</p>
 
                                     </div>
 
@@ -348,20 +316,67 @@
                             </div>
                             <div class="col-md-4 mb-3">
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532777946373-b6783242f211?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=8ac55cf3a68785643998730839663129">
+                                <a href="#" class="btn btn-primary stretched-link">    
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/25.png">
+                                </a>     
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">EXQ Figure Racing Miku 2018 Team Ukyo ver. Banpresto</p>
 
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 mb-3">
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532763303805-529d595877c5?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=5ee4fd5d19b40f93eadb21871757eda6">
+                                <a href="#" class="btn btn-primary stretched-link">  
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/26.png">
+                                </a>
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Fullmetal alchemist brotherhood edward elric figure furyu</p>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row">
+
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                <a href="#" class="btn btn-primary stretched-link">  
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/27.png">
+                                </a>
+                                    <div class="card-body">
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">One piece girly girls perhona Banpresto</p>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                <a href="#" class="btn btn-primary stretched-link">  
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/28.png">
+                                </a>
+                                    <div class="card-body">
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Monkey d luffy the grandline men vol. 1 DXF banpresto</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                <a href="#" class="btn btn-primary stretched-link">  
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/29.png">
+                                </a>
+                                    <div class="card-body">
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Japan Anime "MACROSS Frontier" Original Banpresto EXQ Collection Figure - Sheryl Nome</p>
                                     </div>
                                 </div>
                             </div>
@@ -380,7 +395,7 @@
 	<div class = "container">
 	<div class = "center">
 	
-	<h2> FRESH ARRIVALS </h2>
+	<h1><b> POPULAR </b></h1>
 	
 	</div>
 	</div>
@@ -392,15 +407,15 @@
     
         </div>
         <div class="col-6 text-right">
-            <a class="btn btn-primary mb-3 mr-1" href="#carouselExampleIndicators2" role="button" data-slide="prev">
+            <a class="btn btn-primary mb-3 mr-1" href="#carouselExampleIndicators3" role="button" data-slide="prev">
                 <i class="fa fa-arrow-left"></i>
             </a>
-            <a class="btn btn-primary mb-3 " href="#carouselExampleIndicators2" role="button" data-slide="next">
+            <a class="btn btn-primary mb-3 " href="#carouselExampleIndicators3" role="button" data-slide="next">
                 <i class="fa fa-arrow-right"></i>
             </a>
         </div>
         <div class="col-12">
-            <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
+            <div id="carouselExampleIndicators3" class="carousel slide" data-ride="carousel">
 
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -408,10 +423,12 @@
 
                             <div class="col-md-4 mb-3">
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                                <a href="#" class="btn btn-primary stretched-link"> 
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/10.png">
+                                </a>
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Gintoki Sakata Banpresto Ichiban Kuji GINTAMA It 's summer festival!</p>
 
                                     </div>
 
@@ -419,57 +436,24 @@
                             </div>
                             <div class="col-md-4 mb-3">
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1517760444937-f6397edcbbcd?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=42b2d9ae6feb9c4ff98b9133addfb698">
+                                <a href="#" class="btn btn-primary stretched-link"> 
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/11.png">
+                                </a>
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Gintoko sakata Banpresto Break time figure vol.1</p>
 
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 mb-3">
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532712938310-34cb3982ef74?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=3d2e8a2039c06dd26db977fe6ac6186a">
+                                <a href="#" class="btn btn-primary stretched-link"> 
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/12.png">
+                                </a>
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="row">
-
-                            <div class="col-md-4 mb-3">
-                                <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532771098148-525cefe10c23?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=3f317c1f7a16116dec454fbc267dd8e4">
-                                    <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-md-4 mb-3">
-                                <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532715088550-62f09305f765?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=ebadb044b374504ef8e81bdec4d0e840">
-                                    <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 mb-3">
-                                <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=0754ab085804ae8a3b562548e6b4aa2e">
-                                    <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Gintoko sakata jumping from gintama Banpresto 83608 DXF Figure Statue 14cm</p>
 
                                     </div>
                                 </div>
@@ -482,10 +466,12 @@
 
                             <div class="col-md-4 mb-3">
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=ee8417f0ea2a50d53a12665820b54e23">
+                                <a href="#" class="btn btn-primary stretched-link"> 
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/13.png">
+                                </a>
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Gintoko Sakata Ready Banpresto Karaugeki DXF Figure</p>
 
                                     </div>
 
@@ -493,20 +479,67 @@
                             </div>
                             <div class="col-md-4 mb-3">
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532777946373-b6783242f211?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=8ac55cf3a68785643998730839663129">
+                                <a href="#" class="btn btn-primary stretched-link"> 
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/14.png">
+                                </a>
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Gintama Gintoki Sakata Banpresto DXF figure Shirogane no Tamashii Banpresto</p>
 
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 mb-3">
                                 <div class="card">
-                                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532763303805-529d595877c5?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=5ee4fd5d19b40f93eadb21871757eda6">
+                                <a href="#" class="btn btn-primary stretched-link"> 
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/15.png">
+                                </a>
                                     <div class="card-body">
-                                        <h4 class="card-title">Special title treatment</h4>
-                                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Gintoki Sakata Banpresto Silver soul DX vol.1</p>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row">
+
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                <a href="#" class="btn btn-primary stretched-link"> 
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/16.png">
+                                </a>
+                                    <div class="card-body">
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">murasakibara atsushi DXF cross x players banpresto</p>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                <a href="#" class="btn btn-primary stretched-link"> 
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/17.png">
+                                </a>
+                                    <div class="card-body">
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Shintaro Midorima  DXF cross x players banpresto</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                <a href="#" class="btn btn-primary stretched-link"> 
+                                    <img class="img-fluid" style="width: 300px; height:300px;" alt="100%x280" src="images/product/16.png">
+                                </a>
+                                    <div class="card-body">
+                                        <h4 class="card-title">PHP00.00</h4>
+                                        <p class="card-text">Akashi Seijuro Banpresto chibi kyun-chara kuroko no basuke</p>
                                     </div>
                                 </div>
                             </div>

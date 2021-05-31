@@ -154,6 +154,11 @@ body {
   margin: 0 0 48px;
 }
 
+.thumbnail img {
+  width: 1000px;
+  height: 1000px;
+}
+
 .title {
   margin: 0 0 12px;
   color: #D18B49;
@@ -165,6 +170,7 @@ body {
 .description {
   margin: 0 0 48px;
 }
+
 
 
 @-webkit-keyframes ripple {
